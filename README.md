@@ -1,6 +1,6 @@
 # Webpack Starter Template
 
-A simple Webpack setup with development and production configs.
+A simple Webpack setup with development and production configs.Make sure to run npm install every time the template is used for a new project
 
 ## Features
 
